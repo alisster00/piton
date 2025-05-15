@@ -1,0 +1,7 @@
+Las estructuras de control son herramientas que permiten
+controlar el flujo de ejeccución del programaba.
+Se dividen en tres principales tipos:
+
+Estructuras condicionales
+Estructuras repetitivas (bucles)
+Control de flujo dentro de los bucles

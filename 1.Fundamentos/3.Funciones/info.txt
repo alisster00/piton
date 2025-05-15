@@ -1,0 +1,13 @@
+Una función es un bloque de código reutilizable que realiza una tarea específica. 
+Sirve para evitar repetir código y para organizar mejor un programa.
+
+En python se utiliza la clave def
+
+Cosas importantes:
+
+- def: definir una función
+- parámetros van entre paréntesis
+- bloque de código identado
+- return: devuelve un valor (puede omitirse si no necesitas devolver nada)
+
+
